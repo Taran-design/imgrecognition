@@ -1,0 +1,13 @@
+.bUtbut{
+width:75%;
+font-size: 23px; 
+}
+body{
+ background-color: darkblue; 
+ color:white;  
+}
+#camera{
+width: 349px; 
+height: 301px; 
+border: 3px solid purple;   
+}
